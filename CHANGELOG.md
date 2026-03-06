@@ -1,5 +1,11 @@
 # @ctx-core/domain--any
 
+## 0.1.14
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 0.1.13
 
 ### Patch Changes
